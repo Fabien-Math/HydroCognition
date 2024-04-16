@@ -1,0 +1,4 @@
+Here are all the pre-trained CNN models.
+
+NAMES ARE BUILD LIKE BELOW :
+MODEL_NAME = "CNN_DS_BS" + str(BATCH_SIZE) + '_F' + FUNCTION + '_E' + str(EPOCHS) + '_N' + str(NNEURONS)  + '_NL' + str(NLAYER)
