@@ -3,8 +3,8 @@
 ## Authors
 *Fabien Mathé* **&** *Yohan Stablo*
 
-🏫 SeaTech - Naval engineering school
-🎓 Modelling and Fluid-Structure Computation
+🏫 SeaTech - Naval engineering school  
+🎓 Modelling and Fluid-Structure Computation  
 📍 Toulon, FRANCE
 
 ## What is this project?
